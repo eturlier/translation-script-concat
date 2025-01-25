@@ -186,3 +186,10 @@ ou
 yarn concat-i18n
 
 ```
+
+
+---
+
+## Voir un exemple d'utilisation
+
+https://github.com/eturlier/angular-clean-architecture
